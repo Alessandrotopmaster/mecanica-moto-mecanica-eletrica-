@@ -1,0 +1,14 @@
+*{box-sizing:border-box;margin:0;padding:0;font-family:Arial,sans-serif;}
+body{background:#f8f9fa;color:#2c3e50;line-height:1.6;}
+header{background:#C0392B;color:white;padding:1.2rem;text-align:center;}
+.ecossistema{font-size:.9rem;opacity:.8;margin-top:.3rem;}
+nav{background:#E74C3C;padding:1rem;position:sticky;top:0;z-index:10;}
+nav ul{list-style:none;display:flex;flex-wrap:wrap;gap:.8rem;justify-content:center;}
+nav a{color:white;text-decoration:none;font-weight:500;padding:.4rem .7rem;border-radius:.4rem;}
+nav a:hover{background:#C0392B;}
+main{max-width:850px;margin:1.5rem auto;padding:0 1rem;}
+h2,h3{color:#C0392B;margin:1.5rem 0 .8rem;scroll-margin-top:6rem;}
+.espaco-img{background:#fefbf6;border:1px dashed #E74C3C;padding:2rem;text-align:center;color:#888;margin:1rem 0;border-radius:.6rem;}
+ul.detalhe,ol.detalhe{padding-left:1.5rem;margin-bottom:.8rem;}
+a.voltar{color:#C0392B;text-decoration:none;font-weight:bold;display:inline-block;margin-bottom:.8rem;}
+pre{background:#f4f4f4;padding:1rem;border-radius:.4rem;overflow-x:auto;font-size:.9rem;}
